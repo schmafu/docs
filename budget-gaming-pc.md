@@ -42,6 +42,14 @@ Alle bisherigen Komponenten zusammengefasst in einer Preisliste:
 | | **Summe** (ohne Versand) |   **307** €|
 
 
+## Fazit
+
+Mit knapp 300 Euro geht sich ein akzeptabler Gaming-PC aus. Falls man wirklich mehr Performance haben will, könnte man sich zusätzlich eine dedizierte Grafikkarte um 100 Euro (Radeon 260x) anschaffen. Wobei dann auch gleich eine Intel-CPU und ein dazupassendes Mainboard Sinn machen, da sie preislich in einem ähnlichen Bereich sind und sie CPU-mäßig doch um einiges schneller sind (50%) und die integrierte Grafikeinheit nicht benötigt wird.
+
+Zum Abschluss gibt's noch ein Bild vom Gehäuse ;)
+
+![Gehäuse](http://geizhals.at/p/1089071.jpg)
+
 
 
 
