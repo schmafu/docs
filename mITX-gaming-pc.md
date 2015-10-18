@@ -34,7 +34,7 @@ AMD bietet mit den kombinierten CPU/GPU-Lösungen interessanten Alternativen, do
 Nachdem man sich für die CPU entschieden hat, kann man sich ein passendes Mainboard aussuchen. Da nicht übertaktet wird, kann man eigentlich zum billigsten Board greifen. Ich wollte einen 4k Displayport und WLAN onboard, in dieser Kategorie war das MSI H97I am billigsten. Falls man Mac OS X aufsetzen will, sind die Boards von Gigabyte zu empfehlen. Für diese gibt es die meisten Patches in der Community.
 
 ### RAM
-8 GB (egal von welcher Marke) sind für meine Zwecke ausreichend mehr als ausreichend. Der Aufpreis auf 16GB wäre zwar nicht teuer, aber dieses Argument gilt für fast alle Komponenten und dann summieren sich diese Einzelbeträge auf und am Schluss ist der PC fast doppelt so teuer.
+8 GB (egal von welcher Marke) sind für meine Zwecke mehr als ausreichend. Der Aufpreis auf 16GB wäre zwar nicht teuer, aber dieses Argument gilt für fast alle Komponenten und dann summieren sich diese Einzelbeträge auf und am Schluss ist der PC fast doppelt so teuer.
 
 ### Grafikkarte
 
