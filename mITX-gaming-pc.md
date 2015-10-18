@@ -18,11 +18,11 @@ Nice to Have:
 
 ## Komponenten
 
-# Gehäuse
+### Gehäuse
 
 Das Gehäuse ist für mich fast die wichtigste Entscheidung. Da es ein mITX-Build wird, steht es repräsentativ auf dem Tisch und verschwindet nicht wie ein herkömmlicher PC unter dem Tisch. Gut durchdachte und ästhetisch anspruchsvolle Lösungen findet man selten, anscheinend überlässt man dieses Feld komplett Apple. Da die Grafikkarte 2 Slots benötigt, reduziert sich das Bewerberfeld weiter. Lian Li überzeugen mich mit ihren dezenten Alu-Look. 
 
-# Netzteil
+### Netzteil
 
 Kleinere mITX-Gehäuse verwenden oft ein externes Netzteil, falls man keine Grafikkarte benötigt, sind diese sogar besser als die mit internen Netzteil. ein High-End-PC ohne Grafikkarte benötigt wahrscheinlich nur ein 120-160W Netzteil. Bei einer aktuellen High-End Grafikkarte wird es unter 500W nur einen schwarzen Bildschirm geben. Bei einem i3 und der GTX 960 ist wahrscheinlich ein 300W Netzteil schon Overkill. Aber es macht durchaus Sinn, ein überdimensioniertes zu kaufen, da diese bei wenig Last mit einer geringeren Lüfterdrehzahl kühlen. Da sich in einem mITX alles ziemlich staut, wäre ein vollmodulares Netzteil wünschenswert um den Kabelsalat zu reduzieren und so für mehr Luftzirkulation zu sorgen.
 
