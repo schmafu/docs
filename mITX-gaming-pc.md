@@ -46,15 +46,15 @@ Eine SSD mit 512 GB sollten ausreichen, wem das zu wenig ist, könnte sich noch 
 
 ## Liste
 
-| Komponente  | Bezeichnung | Geizhals-Link | Preis in Euro |
-|-------------|-------------|------|-------:|
-| CPU         | Intel Core i3 4170 | http://geizhals.at/intel-core-i3-4170-bx80646i34170-a1250024.html?hloc=at | 115 |
-| Mainboard   | MSI H97I | http://geizhals.at/msi-h97i-ac-7851-002r-a1111452.html?hloc=at | 105 |
-| RAM         | DDR3-1600 | http://geizhals.at/?cat=ramddr3&xf=5830_UDIMM1~253_8192~5828_DDR3~5831_DIMM~254_1600#xf_top | 40 |
-| Grafikkarte | Gigabyte GTX 960 | http://geizhals.at/gigabyte-geforce-gtx-960-windforce-2x-oc-gv-n960oc-4gd-a1288746.html | 200 |
-| SSD | Crucial BX 100 | http://geizhals.at/crucial-bx100-500gb-ct500bx100ssd1-a1215184.html?hloc=at | 160 |
-| Gehäuse | Lian Li PC-Q01B | http://geizhals.at/lian-li-pc-q01b-schwarz-a1077884.html | 60 |
-| Netzteil | be quiet Pure Power L8-430W | http://geizhals.at/be-quiet-pure-power-l8-cm-430w-atx-2-31-l8-cm-430w-bn180-a679523.html?hloc=at | 60 |
+| Komponente  | Bezeichnung  | Preis in Euro |
+|-------------|------------------|-------:|
+| CPU         | [Intel Core i3 4170](http://geizhals.at/intel-core-i3-4170-bx80646i34170-a1250024.html?hloc=at) | 115 |
+| Mainboard   | [MSI H97I](http://geizhals.at/msi-h97i-ac-7851-002r-a1111452.html?hloc=at) | 105 |
+| RAM         | [DDR3-1600](http://geizhals.at/?cat=ramddr3&xf=5830_UDIMM1~253_8192~5828_DDR3~5831_DIMM~254_1600#xf_top) | 40 |
+| Grafikkarte | [Gigabyte GTX 960](http://geizhals.at/gigabyte-geforce-gtx-960-windforce-2x-oc-gv-n960oc-4gd-a1288746.html) | 200 |
+| SSD | [Crucial BX 100](http://geizhals.at/crucial-bx100-500gb-ct500bx100ssd1-a1215184.html?hloc=at) | 160 |
+| Gehäuse | [Lian Li PC-Q01B](http://geizhals.at/lian-li-pc-q01b-schwarz-a1077884.html) | 60 |
+| Netzteil | [be quiet Pure Power L8-430W](http://geizhals.at/be-quiet-pure-power-l8-cm-430w-atx-2-31-l8-cm-430w-bn180-a679523.html?hloc=at) | 60 |
 |**Summe**| | | **740** |
 
 Falls man Mac OS X aufsetzen will, muss man zu einem i3 4**3**xx greifen. Ein Gigabyte-MB ist zwar nicht Pflicht, aber die Wahrscheinlichkeit steigt, dass dann unter Mac OS X alles _out of the box_ funktioniert.
