@@ -14,6 +14,7 @@ Die Must-Have-Kriterien:
 Nice to Have:
 * Linux Support
 * Hackintosh-kompatibel
+* aktuelle Spiele auf 4k
 
 ## Komponenten
 
@@ -45,6 +46,41 @@ Eine SSD mit 512 GB sollten ausreichen, wem das zu wenig ist, könnte sich noch 
 
 ## Liste
 
-|Bezeichnung| Link | Preis|
-+-----------+------+------+
+| Komponente  | Bezeichnung | Geizhals-Link | Preis in Euro |
+|-------------|-------------|------|-------:|
+| CPU         | Intel Core i3 4170 | http://geizhals.at/intel-core-i3-4170-bx80646i34170-a1250024.html?hloc=at | 115 |
+| Mainboard   | MSI H97I | http://geizhals.at/msi-h97i-ac-7851-002r-a1111452.html?hloc=at | 105 |
+| RAM         | DDR3-1600 | http://geizhals.at/?cat=ramddr3&xf=5830_UDIMM1~253_8192~5828_DDR3~5831_DIMM~254_1600#xf_top | 40 |
+| Grafikkarte | Gigabyte GTX 960 | http://geizhals.at/gigabyte-geforce-gtx-960-windforce-2x-oc-gv-n960oc-4gd-a1288746.html | 200 |
+| SSD | Crucial BX 100 | http://geizhals.at/crucial-bx100-500gb-ct500bx100ssd1-a1215184.html?hloc=at | 160 |
+| Gehäuse | Lian Li PC-Q01B | http://geizhals.at/lian-li-pc-q01b-schwarz-a1077884.html | 60 |
+| Netzteil | be quiet Pure Power L8-430W | http://geizhals.at/be-quiet-pure-power-l8-cm-430w-atx-2-31-l8-cm-430w-bn180-a679523.html?hloc=at | 60 |
+|**Summe**| | | **740** |
+
+Falls man Mac OS X aufsetzen will, muss man zu einem i3 4**3**xx greifen. Ein Gigabyte-MB ist zwar nicht Pflicht, aber die Wahrscheinlichkeit steigt, dass dann unter Mac OS X alles _out of the box_ funktioniert.
+
+Bei der Grafikkarte könnte man auch zu einer mITX-taugliche Variante des Preis/Leistungssiegers GTX 970 greifen, damit nähert man sich für rund 100 Euro Aufpreis der GTX 980 an, die die doppelte Performance der 960er liefert.
+
+## Silent Mods
+
+Da ich natürlich nicht mit den Standardkomponenten zufrieden bin, wird fleißig gemoddet. Vorne weg, F\*\*\* Y\*\* Asus! Die GTX 960 wird in den Reviews immer dafür gelobt, dass sich der Lüfter erst bei 60 Grad einschaltet. Nicht bei der mITX-Variante von Asus, dort dreht er auch im Leerlauf seine 1400 Umdrehungen pro Minute. Unter Volllast gleicht das Teil einer Turbine. Eigentlich hätte ich die Grafikkarte zurückschicken müssen, aber ich war mir nicht sicher, ob sich die Mini-Varianten der anderen Hersteller ähnlich verhalten. Also musste ein alternativer Lüfter drauf. 
+
+### Arctic Accelero Mono Plus
+
+Nach längerer Recherche bin ich beim [Arctic Accelero Mono Plus](http://geizhals.at/arctic-accelero-mono-plus-a691663.html?hloc=at) gelandet. Für 30 Euro ist er auf höchster Stufe leiser als der Asus im Leerlauf. Wer gerne herumschraubt und auf die Garantie der Grafikkarte verzichten kann, dem sei dieser Mod ans Herz gelegt. Ohne Gehäuselüfter und nach 2-3h zoggen bewegt sich die Temperatur der Grafikkarte bei 60 Grad. Bis 80 Grad wäre Spielraum. In den nächsten Tagen werde ich einen 5V Adapter einbauen. Aktuell wird der Lüfter mit 7V betrieben und ich glaube, dass es noch eine Spur leiser geht und sich die Temperatur weiter unter 70 Grad bewegen sollte.
+
+Der Kühler nimmt 3 Slotstufen in Anspruch, beim mITX ist dies jedoch komplett egal, da nur 1 PCIe-Slot verbaut ist. Das Gehäuse bietet auch ausreichend Platz nach unten. Bei einem anderen Gehäuse muss man gegebenfalls abklären, ob man diesen Lüfter verbauen kann.
+
+### Silvretta Alpenföhn
+
+Bei der Namensgebung sind die Kühlerhersteller sehr kreativ. Ich betreibe aus Prinzip keinen PC mit dem Standard-CPU-Kühler, erfahrungsgemäß wird hier an allen Enden und Ecken gespart. Der [Silvretta Alpenföhn](http://geizhals.at/ekl-alpenfoehn-silvretta-84000000096-a949432.html) ist für kleine Gehäuse gedacht. Beim Lian Li Gehäuse befindet sich das Netzteil gegenüber von der CPU, d.h. man muss auf die Höhe des Kühlers aufpassen. Auf der niedrigsten Stufe ist der Lüfter aus normaler Entfernung nicht hörbar. Da kein Gehäuselüfter verbaut ist, muss schafft er es auf dieser Stufe nicht die CPU ausreichend zu kühlen. Dank Lüftersteuerung im BIOS(UEFI) kann ich die Grenzwerte selbst festlegen. Eine Intel-CPU kann man eigentlich nicht mehr grillen, daher erhöhe ich die Drehzahl erst bei 65 Grad.
+
+## Fazit
+
+Die großen PCs gehören der Vergangenheit an. SSDs und das Internet sorgten dafür, dass man keine Festplatten und optischen Laufwerke mehr benötigt. Durch die Integration von Funktionalität auf die CPU bzw. auf das Motherboard benötigt man eigentlich keine Erweiterungskarten mehr. In meinem ersten PC benötigte ich einen PCI-Slot für die Soundkarte, Netzwerkkarte und die Grafikkarte. Das ist nun alles hinfällig. Übrig geblieben ist die Grafikkarte und für den Alltagsbenutzer ist diese auch nicht mehr notwendig. Mit sorgsamer Komponentenauswahl und kleinen Umbauten kann man sich einen schreibtischtauglichen Silent-Gaming-PC zusammenstellen, der alle aktuellen Spiele in Full-HD bewältigt.
+
+![Lian Li](http://geizhals.at/p/1077884.jpg)
+
+
+
 
